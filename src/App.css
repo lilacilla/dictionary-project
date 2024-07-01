@@ -1,0 +1,15 @@
+.App-header {
+  margin: 30px;
+}
+
+.App-logo {
+  max-width: 300px;
+  display: block;
+  margin: 0 auto;
+}
+
+Footer {
+  text-align: center;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.6);
+}
