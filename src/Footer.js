@@ -18,7 +18,7 @@ export default function Footer() {
         </a>{" "}
         & hosted on{" "}
         <a
-          href="https://musical-caramel-55b269.netlify.app/"
+          href="https://adorable-biscuit-e8354a.netlify.app/"
           target="_blank"
           rel="noreferrer"
         >
