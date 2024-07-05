@@ -1,7 +1,6 @@
 import React from "react";
 
 export default function Dictionary(props) {
-  console.log(props.dictionary.example);
   return (
     <div className="Dictionary">
       <h3>{props.dictionary.partOfSpeech}</h3>

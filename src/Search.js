@@ -8,9 +8,6 @@ export default function Search() {
   let [results, setResults] = useState("");
 
   function handleResponse(response) {
-    console.log(response.data.word);
-    console.log(response.data);
-    console.log(response.data.meanings[0].definition);
     setResults(response.data);
   }
 
