@@ -1,0 +1,29 @@
+.Photos {
+  background: #fff;
+  opacity: 80%;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 10px 10px rgb(0 0 0 / 20%);
+  margin: 20px auto;
+  width: 65%;
+}
+
+.photo-grid {
+  row-gap: 20px;
+}
+
+.Photos img {
+  border-radius: 4px;
+}
+
+@media screen and (max-width: 657px) {
+  .Photos {
+    padding: 20px;
+    margin: 25px auto;
+    width: 90%;
+  }
+
+  .photo-grid {
+    row-gap: 15px;
+  }
+}
