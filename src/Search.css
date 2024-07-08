@@ -33,11 +33,7 @@
 
 @media screen and (max-width: 657px) {
   .search-bar {
-    width: 90%;
-    margin: 0;
-  }
-
-  .search-button {
-    display: none;
+    width: 70%;
+    margin-right: 5px;
   }
 }
